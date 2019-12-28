@@ -7,6 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="/style.css">
     <title>Login</title>
+    <style>
+        body {
+            background-color: #0C1111;
+        }
+    </style>
 </head>
 
 <body>
