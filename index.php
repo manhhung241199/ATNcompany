@@ -11,7 +11,9 @@
 </head>
 
 <body>
-    <img src="./images/hongkong.jpg" height="150px" width="200px">
+    <div class="wraptocenter">
+        <img src="./images/hongkong.jpg">
+    </div>
     <div class="content">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
