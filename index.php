@@ -10,7 +10,7 @@
 
 </head>
 
-<body>
+
     <div class="content">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
@@ -19,6 +19,6 @@
             <input class="input-information" type="submit" value="Login">
         </form>
     </div>
-</body>
+
 
 </html>
