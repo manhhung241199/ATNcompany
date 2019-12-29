@@ -38,7 +38,7 @@ h4{
 .content table,
 th,
 td {
-    border: 1px solid black;
+    border: 1px solid #FFFFFF;
 }
 
 .content table {
@@ -55,7 +55,7 @@ td {
 table td,
 table {
     color: #FFFFFF;
-    border: 1px solid black;
+    border: 1px solid #FFFFFF;
 }
 
 a {
