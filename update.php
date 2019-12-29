@@ -70,8 +70,7 @@ if (isset($_POST['update'])) {
 			<input class="input-information" type="text" name="price" value="<?= $row[2] ?>">
 			<input class="input-information" type="text" name="descript" value="<?= $row[3] ?>">
 			<input class="input-information" type="file" name="images" value="<?= $row[4]?>">
-			<h3><input class="update-ip" type="submit" name="update" value="Update"></h3>
-        
+			<input class="update-ip" type="submit" name="update" value="Update">
         <button><a href="/managing.php">Back</a></button>
 		<br><br>
     </div>
