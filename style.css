@@ -54,6 +54,7 @@ td {
 .content table td th,
 table td,
 table {
+    color: #FFFFFF;
     border: 1px solid black;
 }
 
@@ -66,7 +67,6 @@ a {
 }
 
 .content button {
-    color: #FFFFFF;
     margin-left: 740px;
     margin-top: 10px;
     height: 35px;
