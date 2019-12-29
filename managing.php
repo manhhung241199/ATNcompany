@@ -42,7 +42,7 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
                 <th class="tit">Name</th>
                 <th class="tit">Price ($)</th>
                 <th class="tit">Description</th>
-                <th class="tit">Editing</th>
+                <th class="tit">Edit</th>
             </tr>
 
             <?php
