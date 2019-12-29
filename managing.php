@@ -34,7 +34,7 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
 
 <body>
     <div class="content">
-        <h1>Managing Product</h1>
+        <h1>Product Management</h1>
         <table>
             <tr>
                 <th class="tit">ID</th>
@@ -77,7 +77,7 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
             }
             ?> 
         </table>
-        <button><a href="/add.php">Add More</a></button>
+        <h1><button><a href="/add.php">Add</a></button></h1>
         <br><br>
     </div>
     <script>
