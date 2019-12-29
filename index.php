@@ -16,7 +16,7 @@
         <form action="managing.php" method="POST">
             <input class="input-information" type="text" name="aduser" placeholder="Username..."> <br>
             <input class="input-information" type="password" name="adpass" placeholder="Password..."> <br>
-            <input class="input-information" type="submit" value="Login">
+            <input class="input-information" type="submit" value="Login"> <br>
         </form>
     </div>
 </body>
