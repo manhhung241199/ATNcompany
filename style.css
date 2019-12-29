@@ -29,11 +29,12 @@ h4{
     margin-top: 5px;
 }
 a {
+    text-align: center;
     list-style-type: none;
     color: #000000;
-    margin-left: 5px;
+    margin-left: 7px;
     text-decoration: none;
-    padding-right: 5px !important;
+    padding-right: 7px !important;
 }
 
 .tit {
