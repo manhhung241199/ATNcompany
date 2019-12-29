@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <img src="./images/hongkong.jpg">
+    <img src="./images/hongkong.jpg" height="150px" width="200px">
     <div class="content">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
