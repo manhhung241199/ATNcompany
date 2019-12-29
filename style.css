@@ -1,5 +1,5 @@
 body {
-    background-color: #E86767;
+    background-color: #100909;
 }
 
 .content {
@@ -97,14 +97,4 @@ a {
     margin-top: 10px;
     height: 35px;
     width: 70px;
-}
-.wraptocenter {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-  width: 200px;
-  height: 150px;
-}
-.wraptocenter * {
-  vertical-align: middle;
 }
