@@ -38,10 +38,10 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
         <table>
             <tr>
                 <th class="tit">ID</th>
+                <th class="tit">Image</th>
                 <th class="tit">Name</th>
                 <th class="tit">Price ($)</th>
                 <th class="tit">Description</th>
-                <th class="tit">Image</th>
                 <th class="tit">Editing</th>
             </tr>
 
@@ -54,10 +54,10 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
             ?>
                 <tr>
                     <td class="info"><?php echo $row['productid']?></td> 
+                    <td class="info"><img src="<?php echo $row['img']?>" alt="" width="100" height="100"></td>
                     <td class="info"><?php echo $row['proname']?></td> 
                     <td class="info"><?php echo $row['price']?></td> 
                     <td class="info"><?php echo $row['descript']?></td> 
-                    <td class="info"><img src="<?php echo $row['img']?>" alt="" width="100" height="100"></td> 
                     <td class="info">
                         <form action='/delete.php' method="POST" onsubmit="return confirmDelete();">
                             <input type='hidden' name='productid' value='<?php echo $row['productid']?>'>
