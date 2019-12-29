@@ -69,7 +69,7 @@
             <button type="submit" value="Add" name="submit">Add</button>
         </form>
         
-        <h2><button><a href="/managing.php">Back</a></button></h2>
+        <h4><button><a href="/managing.php">Back</a></button></h4>
     </div>
 </body>
 
