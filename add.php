@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <img src="./images/logo1.jpg" width="300" height="150">
     <div class="content">
         <h1>Add Product</h1>
         <?php 

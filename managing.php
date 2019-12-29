@@ -33,6 +33,7 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
 </head>
 
 <body>
+    <img src="./images/logo1.jpg" width="300" height="150">
     <div class="content">
         <h1>Product Management</h1>
         <table>

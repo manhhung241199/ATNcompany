@@ -57,6 +57,7 @@ if (isset($_POST['update'])) {
 </head>
 
 <body>
+	<img src="./images/logo1.jpg" width="300" height="150">
     <div class="content">
         <h1>Update Information</h1>
         <form action="/update.php" method="POST" enctype="multipart/form-data">
