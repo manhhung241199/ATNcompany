@@ -11,14 +11,14 @@
 </head>
 
 <body>
-    <div class="content" class=".login-form">
+    <div class="content">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
             <input class="input-information" type="text" name="aduser" placeholder="Username..."> <br>
             <input class="input-information" type="password" name="adpass" placeholder="Password..."> <br>
             <input class="input-information" type="submit" value="Login">
         </form>
-    </div>
+    
 </body>
 
 </html>
