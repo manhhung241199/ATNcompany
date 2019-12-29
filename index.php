@@ -18,7 +18,7 @@
             <input class="input-information" type="password" name="adpass" placeholder="Password..."> <br>
             <input class="input-information" type="submit" value="Login">
         </form>
-    
+    </div>
 </body>
 
 </html>
