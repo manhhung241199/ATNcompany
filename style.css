@@ -28,13 +28,11 @@ h3{
 h4{
     margin-top: 5px;
 }
-a {
-    list-style-type: none;
-    color: #000000;
-    margin-top: 100px !important;
-    margin-left: 400px;
-    text-decoration: none;
-    padding-right: 10px !important;
+b {
+    margin-left: 350px;
+    height: 30px;
+    width: 310px;
+    margin-bottom: 5px;
 }
 
 .tit {
