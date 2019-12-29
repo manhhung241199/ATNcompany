@@ -28,6 +28,13 @@ h3{
 h4{
     margin-top: 5px;
 }
+a {
+    list-style-type: none;
+    color: #000000;
+    margin-left: 5px;
+    text-decoration: none;
+    padding-right: 5px !important;
+}
 
 .tit {
     font-size: 20px;
@@ -43,7 +50,7 @@ td {
 }
 
 .content table {
-    margin-left: 50px;
+    margin-left: 150px;
     margin-top: 30px;
 }
 
