@@ -20,7 +20,7 @@ h2{
     margin-bottom: 30px;
 }
 h3{
-    text-align: center;
+    margin-left: 350px;
     margin-top: 20px;
 }
 
@@ -62,7 +62,7 @@ a {
 }
 
 .content button {
-    margin-left: 750px;
+    margin-left: 740px;
     margin-top: 10px;
     height: 35px;
     width: 70px;
