@@ -65,7 +65,7 @@
             <input class="input-information" type="text" width="300" height="100" name="price" placeholder="Price"> <br>
             <input class="input-information" type="text" width="300" height="100" name="descript" placeholder="Description"> <br>
 
-            <h2><div>Select images: <input type="file" name="images"></div></h2><br>
+            <h3><div>Select images: <input type="file" name="images"></div></h3><br>
             <button type="submit" value="Add" name="submit">Add</button>
         </form>
         
