@@ -81,7 +81,7 @@ a {
     margin-bottom: 5px;
 }
 .input-login {
-    margin-left: 600px;
+    margin-left: 550px;
     height: 30px;
     width: 80px;
     margin-bottom: 5px;
@@ -93,6 +93,7 @@ a {
 }
 
 .update-ip {
+    color: #FFFFFF;
     margin-left: 740px;
     margin-top: 10px;
     height: 35px;
