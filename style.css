@@ -1,5 +1,5 @@
 body {
-    background-color: #69EAEF;
+    background-color: #C3C3C3;
 }
 
 .content {
@@ -61,13 +61,6 @@ a {
 }
 
 .input-information {
-    width: 100%;
-    max-width: 400px;
-    margin: 20px auto;
-    background-color: #ffffff;
-    padding: 15px;
-    border: 2px dotted #cccccc;
-    border-radius: 10px;
     margin-left: 350px;
     height: 30px;
     width: 310px;
