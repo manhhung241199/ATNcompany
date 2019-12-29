@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="content">
+    <div class="content" class=".login-form">
         <h1>Login</h1>
         <form action="managing.php" method="POST">
             <input class="input-information" type="text" name="aduser" placeholder="Username..."> <br>
