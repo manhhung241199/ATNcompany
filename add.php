@@ -11,7 +11,7 @@
 
 <body>
     <div class="content">
-        <h1>Adding Product Form</h1>
+        <h1>Add Product</h1>
         <?php 
         require("connect.php");   
         if(isset($_POST["submit"]))
@@ -66,7 +66,7 @@
             <input class="input-information" type="text" width="300" height="100" name="descript" placeholder="Description"> <br>
 
             <div>Select images: <input type="file" name="images"></div><br>
-            <button type="submit" value="Add" name="submit">Add product</button>
+            <button type="submit" value="Add" name="submit">Add</button>
         </form>
         
         <button><a href="/managing.php">Back</a></button>
