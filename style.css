@@ -28,6 +28,12 @@ h3{
 h4{
     margin-top: 5px;
 }
+b {
+    text-align: center;
+    color: #000000;
+    margin-left: 5px;
+    padding-right: 5px !important;
+}
 
 .tit {
     font-size: 20px;
