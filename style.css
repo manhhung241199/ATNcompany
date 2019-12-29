@@ -102,9 +102,8 @@ a {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
-  width: 200px;
-  height: 200px;
-  background-color: #999;
+  width: 100px;
+  height: 50px;
 }
 .wraptocenter * {
   vertical-align: middle;
