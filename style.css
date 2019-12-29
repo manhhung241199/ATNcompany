@@ -80,7 +80,12 @@ a {
     width: 310px;
     margin-bottom: 5px;
 }
-
+.input-login {
+    margin-left: 350px;
+    height: 30px;
+    width: 40px;
+    margin-bottom: 5px;
+}
 .edit-btn {
     width: 80px;
     height: 27px;
