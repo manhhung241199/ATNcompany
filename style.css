@@ -10,7 +10,7 @@ body {
     background-color: #017377;
 }
 .content-index {
-    width: 50%;
+    width: 40%;
     margin: 0 auto;
     margin-top: 10px !important;
     border: 1px solid black;
@@ -37,6 +37,12 @@ h4{
 h5{
     color: #FFFFFF;
     margin-top: 20px;
+}
+h6 {
+    margin-top: 30px;
+    color: #FFFFFF;
+    margin-left: 200px;
+    margin-bottom: 20px;
 }
 
 .tit {
