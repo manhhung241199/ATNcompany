@@ -24,6 +24,7 @@ h1 {
     margin-bottom: 20px;
 }
 h2{
+    text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -43,6 +44,7 @@ h4{
     padding: 10px;
 }
 h5 {
+    text-align: center;
     margin-top: 30px;
     color: #FFFFFF;
     margin-left: 200px;
