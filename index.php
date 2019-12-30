@@ -13,7 +13,7 @@
 <body>
     <img src="./images/logo1.jpg" width="320" height="150">
     <div class="content-index">
-        <h5>Login</h5>
+        <h1>Login</h1>
         <form action="managing.php" method="POST">
             <h2><input class="input-information" type="text" name="aduser" placeholder="Username..."> <br>
             <input class="input-information" type="password" name="adpass" placeholder="Password..."> <br>
