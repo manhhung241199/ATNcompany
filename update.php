@@ -15,7 +15,7 @@ if (isset($_POST['update'])) {
     } else {
 		$sql = "select * from product where proname='$name'";
 		$query = pg_query($conn, $sql);
-		if(pg_num_rows($query)>1) {
+		if(pg_num_rows($query)>0) {
 		?> 
 			<script>
 				alert("The product is available!!");
