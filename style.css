@@ -7,10 +7,10 @@ body {
     margin: 0 auto;
     margin-top: 10px !important;
     border: 1px solid black;
-    background-color: #000000;
+    background-color: 045958;
 }
 .content-index {
-    width: 50%;
+    width: 40%;
     margin: 0 auto;
     margin-top: 10px !important;
     border: 1px solid black;
@@ -24,7 +24,7 @@ h1 {
     margin-bottom: 20px;
 }
 h2{
-    margin-left: 300px;
+    margin-left: 400px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
