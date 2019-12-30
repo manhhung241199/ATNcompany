@@ -7,14 +7,7 @@ body {
     margin: 0 auto;
     margin-top: 10px !important;
     border: 1px solid black;
-    background-color: 045958;
-}
-.content-index {
-    width: auto;
-    margin: 0 auto;
-    margin-top: 10px !important;
-    border: 1px solid black;
-    background-color: #045958;
+    background-color: #075A4B;
 }
 
 h1 {
@@ -24,7 +17,6 @@ h1 {
     margin-bottom: 20px;
 }
 h2{
-    margin-left: 400px;
     margin-top: 30px;
     margin-bottom: 30px;
 }
@@ -43,6 +35,7 @@ h4{
     font-style: oblique;
     padding: 10px;
 }
+
 
 .content table,
 th,
