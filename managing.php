@@ -41,7 +41,7 @@ if(isset($_POST["aduser"]) && isset($_POST["adpass"]))
                 <th class="tit">ID</th>
                 <th class="tit">Image</th>
                 <th class="tit">Name</th>
-                <th class="tit">Price ($)</th>
+                <th class="tit">Price</th>
                 <th class="tit">Description</th>
                 <th class="tit">Edit</th>
             </tr>
